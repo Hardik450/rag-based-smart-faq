@@ -59,8 +59,6 @@ This repository contains three progressive implementations of a **Retrieval-Augm
 
 ---
 
----
-
 ### 🧠 Future Plans
 
 * ✅ Streamlit / Flask-based front-end
